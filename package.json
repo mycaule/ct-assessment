@@ -1,0 +1,19 @@
+{
+  "name": "ct-assessment",
+  "version": "1.0.0",
+  "description": "April 2018 CT Interview Assessment",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mycaule/ct-assessment.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mycaule/ct-assessment/issues"
+  },
+  "homepage": "https://github.com/mycaule/ct-assessment#readme"
+}
